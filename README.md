@@ -16,7 +16,7 @@ A RESTful API built using FastAPI for managing bakery products.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/bakery-api.git
+git clone https://github.com/iambrahul7rahul-debug/bakery-api.git
 cd bakery-api
 python -m venv venv
 source venv/bin/activate
